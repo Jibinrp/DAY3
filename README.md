@@ -25,3 +25,4 @@ for (const key in res){
   Object.entries(repo).forEach(([key, value]) => {
     console.log(`${key}: ${value}`);
   });
+.
